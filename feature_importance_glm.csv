@@ -1,0 +1,11 @@
+feature,importance_score,coefficient
+ST_Slope_Up,0.172,-1.115
+ChestPainType_ASY,0.106,1.145
+Oldpeak,0.105,0.452
+ST_Slope_Flat,0.123,0.909
+MaxHR,0.086,-0.21
+FastingBS,0.035,0.964
+ChestPainType_ATA,0.028,-1.066
+Sex_M,0.025,0.675
+Age,0.066,0.189
+RestingBP,0.062,0.105

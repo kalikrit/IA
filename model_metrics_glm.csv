@@ -1,0 +1,6 @@
+metric,value,model
+Accuracy,0.8768,GLM
+Precision,1.0,GLM
+Recall,1.0,GLM
+AUC,0.9219,GLM
+F1-Score,1.0,GLM
